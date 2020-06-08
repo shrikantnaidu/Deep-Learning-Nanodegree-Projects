@@ -1,4 +1,5 @@
 # Deep-Learning-Nanodegree-Projects
+![Udacity](https://github.com/shrikantnaidu/Deep-Learning-Nanodegree-Projects/blob/master/image/Udacity.png)
 
 This repository contains project related to Udacity's [Deep Learning Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of the projects completed as a part of the Nanodegree Program.
 * [Predicting Bike-Sharing Patterns](https://github.com/shrikantnaidu/Deep-Learning-Nanodegree-Projects/tree/master/Project%201%20-%20Predicting_Bike_Sharing_Patterns): Implement a neural network in NumPy to predict bike rentals.
