@@ -10,3 +10,5 @@ This repository contains project related to Udacity's [Deep Learning Nanodegree 
 * [TV Script Generation](https://github.com/shrikantnaidu/Deep-Learning-Nanodegree-Projects/tree/master/Project%203%20-%20Generate_TV_Scripts): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
 
 * [Face Generation](https://github.com/shrikantnaidu/Deep-Learning-Nanodegree-Projects/tree/master/Project%204%20-%20Face_Generation): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+
+* [Deployment](https://github.com/udacity/sagemaker-deployment): Deploy a Sentiment Analysis Model using AWS SageMaker.
