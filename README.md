@@ -1,5 +1,5 @@
 # Deep-Learning-Nanodegree-Projects
-![Udacity](https://github.com/shrikantnaidu/Deep-Learning-Nanodegree-Projects/blob/master/image/Udacity.png)
+![Udacity](https://github.com/shrikantnaidu/Data-Engineering-Nanodegree-Projects/blob/master/Udacity.png)
 
 This repository contains projects related to Udacity's [Deep Learning Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of the projects completed as a part of the Nanodegree Program.
 
